@@ -28,7 +28,7 @@
   
   
   
-  /* --------------- site wide START ----------------- */
+
   .main{
     width:80vw;
     margin: 0 10vw;
@@ -69,10 +69,7 @@
     margin:0;
   }
   
-  
-  /* ------------------ site wide END ----------------- */
-  
-  /* ----- RESPONSIVE OPTIONS MUST STAY AT BOTTOM ----- */
+ 
   
   /* SM size and above unless over ridden in bigger sizes */
   @media (min-width: 576px) { /* sm size */

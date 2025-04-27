@@ -44,7 +44,7 @@
 }    
 
 .welcome-heading {
-    margin-top:20rem ;
+    margin-top:18rem ;
     font-family: sans-serif;
     font-size: 4rem;
     color: #38dd8d;
@@ -64,14 +64,14 @@ font-family: sans-serif;
   display: flex;
   justify-content: center; 
   align-items: center;     
-  height: 30vh;          
+  height: 20vh;          
   width: 100%;  
 }
 
 button {
   width: 19rem;
   padding-top: 1rem;
-  color: #c1dcce;
+  color: #5cf5a6;
   margin-left: 120px;      /* Full width of parent */
 
 }
